@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Desiree, an IT Professional
+<h1>Hi, I'm Desiree, an [IT Professional](https://www.linkedin.com/in/yourlinkedinname/)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
