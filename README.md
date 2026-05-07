@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Desiree, an www.linkedin.com/in/desiree-castro-2404471a5 IT Professional</a>☺</h1>
+<h1>Hi, I'm Desiree, an [IT Professional](https://www.linkedin.com/in/desiree-castro-2404471a5/)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
